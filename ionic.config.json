@@ -1,0 +1,7 @@
+{
+  "name": "test-error-path",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
